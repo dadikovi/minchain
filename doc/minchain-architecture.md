@@ -1,0 +1,3 @@
+# Minchain architecture
+
+TODO
