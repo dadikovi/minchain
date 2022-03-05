@@ -17,7 +17,7 @@ In case you are not really familiar with blockchain concepts, I collected here w
 About this project
 
 - [Domain](doc/minchain-domain.md)
-- [Architecture](doc/minchain-architecture.md) (WiP)
+- [Architecture](doc/minchain-architecture.md)
 
 ---
 
