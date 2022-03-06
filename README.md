@@ -2,6 +2,8 @@
 
 > minchain is a basic, *semi*-functional blockchain implementation for learning and demonstration purposes.
 
+![How it looks like](doc/usage.gif)
+
 ### 🤩 Motivation
 
 I wanted to try Rust and learn more about blockchains. Looked like a match made in heaven.

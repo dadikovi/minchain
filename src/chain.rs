@@ -88,6 +88,7 @@ impl std::convert::From<json::JsonValue> for Chain {
     }
 }
 
+#[cfg(test)]
 mod tests {
     use crate::chain::Chain;
     
