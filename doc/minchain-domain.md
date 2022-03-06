@@ -24,6 +24,10 @@ The chain is just a list of blocks. Its functions are limited to:
 - storing data
 - overriding the whole chain with a new state received from a more up-to-date node
 
+## Adding new data
+
+Adding new data and mining are tight together. There is no mempool as in the bitcoin network. This means that if someone wants to save data to the chain, they have to operate a node which can mine a new block.
+
 ## PTP network
 
 The real value of blockchain that it is a distributed across independent machines, which together form a peer-to-peer network.

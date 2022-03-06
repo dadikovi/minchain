@@ -23,7 +23,7 @@ About this project
 
 Why is it "*semi*-functional"?
 
-- [Limitations](doc/limitations.md) (WiP)
+- [Limitations](doc/limitations.md)
 
 ---
 
